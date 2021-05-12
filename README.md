@@ -39,3 +39,11 @@ nvidia-docker run --it \
   --volume "$PWD/code":/RealVS \
   RealVS
 ```
+- Training RealVS by running 
+```
+/RealVS/Train_RealVS.ipynb
+```
+- Test and visualize RealVS by running 
+```
+/RealVS/Test&Viz_RealVS.ipynb
+```
