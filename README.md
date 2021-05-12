@@ -34,7 +34,7 @@ cd environment && docker build . --tag RealVS; cd ..
 In your terminal, navigate to the folder where you've extracted the capsule and execute the following command, adjusting parameters as needed:
 ```shell
 nvidia-docker run --it \
-  --workdir /code \
+  --workdir /RealVS \
   --volume "$PWD/data":/Benchmark_Datasets \
   --volume "$PWD/code":/RealVS \
   RealVS
