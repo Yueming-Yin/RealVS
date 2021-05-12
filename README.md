@@ -39,10 +39,13 @@ nvidia-docker run --it \
   --volume "$PWD/code":/RealVS \
   RealVS
 ```
-## Reproducing the training process of RealVS by
+## Reproducing the training process of RealVS
+In your jupyter notebook, set the task ID to reproduce the training process of RealVS using the data in "Benchmark_Datasets": 
 ```
 /RealVS/Train_RealVS.ipynb
 ```
-## Reproducing the test and visualization process of RealVS by
+## Reproducing the test and visualization process of RealVS
+In your jupyter notebook, set the task ID to reproduce the training process of RealVS using the data in "Benchmark_Datasets" and the final models in "RealVS_Models":
 ```
 /RealVS/Test&Viz_RealVS.ipynb
+```
