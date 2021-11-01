@@ -1,5 +1,5 @@
 # RealVS
-Reproducing of the paper entitled "RealVS: Towards Enhancing the Precision of Top Hits in Ligand-Based Virtual Screening of Drug Leads from Large Compound Databases"
+Reproducing of the paper entitled "**[RealVS: Towards Enhancing the Precision of Top Hits in Ligand-Based Virtual Screening of Drug Leads from Large Compound Databases](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01021)**"
 
 - All rights reserved by Yueming Yin, Email: 1018010514@njupt.edu.cn.
 - RealVS has been deployed on our web page: www.noveldelta.com/RealVS.
