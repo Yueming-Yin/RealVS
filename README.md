@@ -51,8 +51,8 @@ In your jupyter notebook, set the task ID to reproduce the training process of R
 ```
 ./RealVS/Test&Viz_RealVS.ipynb
 ```
-# Citation
-## Latex
+# Citations
+## In Latex
 ```
 @article{yin2021realvs,
 author = {Yin, Yueming and Hu, Haifeng and Yang, Zhen and Xu, Huajian and Wu, Jiansheng},
@@ -64,7 +64,7 @@ pages = {4924-4939},
 year = {2021},
 }
 ```
-## Word
+## In Word
 ```
-Yueming Yin, Haifeng Hu, Zhen Yang, Huajian Xu, and Jiansheng Wu. Realvs: To- ward enhancing the precision of top hits in ligand-based virtual screening of drug leads from large compound databases. Journal of Chemical Information and Modeling, 61(10):4924–4939, 2021.
+Yueming Yin, Haifeng Hu, Zhen Yang, Huajian Xu, and Jiansheng Wu. RealVS: Toward enhancing the precision of top hits in ligand-based virtual screening of drug leads from large compound databases. Journal of Chemical Information and Modeling, 61(10):4924–4939, 2021.
 ```
